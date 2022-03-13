@@ -1,0 +1,33 @@
+
+	body {
+	  text-align: center;
+	  background-color: #D9BAAB;
+	}
+
+	div {
+	  margin-top: 15px;
+    color : #9d6b53
+	}
+
+    
+	.image-section {
+    
+	  display: flex;
+    justify-content: center;
+	}
+
+	.section-style {
+
+	  margin-right: 25px;
+	  margin-left: 25px;
+	}
+
+img {
+  width : 400px;
+  border : 6px solid #9d6b53;
+}
+
+h1 {
+  text-decoration : underline;
+  color : #9d6b53;
+}
